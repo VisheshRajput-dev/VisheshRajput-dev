@@ -1,26 +1,24 @@
 <br clear="both">
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Welcome&fontSize=70&fontColor=ffffff&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,0,0,255,0,0&height=100&section=header&text=Welcome&fontSize=70&fontColor=ffffff&fontAlign=50&fontAlignY=50" />
+
 </div>
 
-###
+<br>
 
-<img align="right" height="200" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="200" style="margin-top: -20px;" src="https://media1.tenor.com/m/dqMFSMVebLAAAAAd/frankt.gif" />
 
-###
+<br>
 
 <h1 align="left">Hey There 👋</h1>
 
-###
-
 <p align="left">I'm Vishesh — the developer who believes semicolons are optional but good coffee is mandatory ☕.</p>
 
-###
 
 <h2 align="left">🤯 About Me (Now with 90% fewer bugs)</h2>
 
-###
+<br>
 
 <p align="left">Hey, I’m Vishesh — your friendly neighborhood developer who has trust issues...  <br>because my code *runs perfectly* only when no one’s watching 👀.<br><br>💡 I speak fluent React, Node.js, and MongoDB,  <br>and I occasionally whisper motivational quotes to Firebase when it stops working.<br><br>☕ Powered by coffee and sweet logic.  <br>🐍 My spirit animal is a semicolon that everyone forgets to add.  <br>🎮 Currently trying to figure out whether gaming improves my reflexes or just my procrastination skills.  <br><br>>Disclaimer: If it works on my machine, it’s basically production-ready.</p>
 
@@ -63,17 +61,12 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" alt="apple logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VisheshRajput-dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VisheshRajput-dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
@@ -106,7 +99,8 @@
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,0,0,255,0,0&height=100&section=footer&text=Sayonara&fontSize=60&fontColor=ffffff&fontAlign=50&fontAlignY=50" />
 </div>
+
 
 ###
